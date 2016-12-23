@@ -7,35 +7,35 @@ Aayushi, Hai Lan, Heejong Kim, Himanshu Kumawat
 
 # Description
 
-#### Problem
+### Problem
 
-Our project aims to help taxi drivers in New York City to easily find the “target spots” they want to pick up passengers.
+Where the taxi drivers in New York City can easily find the “target spots” to pick passengers?
  
 Taxi drivers, especially in crowded city like New York, are facing intense competition every day. Every taxi drivers are hoping to minimize the empty-load time during their work hours and also, get more money earned. Fortunately, NYC Taxi and Limousine Commission (TLC) provide records of all historical taxi data in past few years. With those data, taxi drivers no longer need to find passengers in blind. However, simply show those data to taxi drivers directly is not a wise way because those data is complex to analyze and it is difficult for drivers to find their interested information from those data directly.
  
 Therefore, developing an effective visual analytic tool to interactively mine and visualize those data to those taxi drivers with their own needs will be helpful for them to work more efficiency. On the other hand, it can also optimize passengers’ satisfactory as well because no passenger prefer to wait a super long time until get a taxi.
 
-#### What are the driving analytical questions you want to be able to answer with your visualization?
+### The driving analytical questions this Visualization can easily answer:
 
 Since our project aims to help taxi drivers in NYC to find the target spots, we want to answer the questions that taxi drivers might have. 
 
-####### Where is the highest taxi demanding area in Manhattan in different time intervals?
+##### Where is the highest taxi demanding area in Manhattan in different time intervals?
 Taxi demanding will change at different place at different time. For example in rush hour, it is possible that more potential passengers may take taxi from residence places to their working places.
 
-###### Where and when to find the places those passengers prefer to pay highest tips?
+#### Where and when to find the places those passengers prefer to pay highest tips?
 Taxi drivers usually want to earn more for each trip. However, tips amount are not always affected by total amount. By calculating the average tip percentage of total amount and mapping results to map can help drivers find out in which area and time, people prefer to pay higher tips.
 
-###### Where and when is the place that passengers usually pay with cash rather than credit cards?
+#### Where and when is the place that passengers usually pay with cash rather than credit cards?
 Sometimes, drivers prefer to get cash directly to avoid withdraw from ATM again. Sometimes, they just prefer to get money with credit cards for some safety reasons. By analyzing the credit card/cash ratio in spatio­temporal can help to find the place that fit for those drivers’ need.
  
-###### Is there relationship between higher demanding areas and tips (or cash/credit ratio)? 
+#### Is there relationship between higher demanding areas and tips (or cash/credit ratio)? 
 In addition to finding the best place for taxi demands, tips or cash, we want to find the relationship between taxi demands and other attributes.
 
-#### Video:
+### Video:
 
-#### Live Demo: 
+### Live Demo: 
 
-#### Final Document:
+### Final Document:
 
 # Data Source
 
