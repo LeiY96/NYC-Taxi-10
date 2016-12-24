@@ -31,11 +31,11 @@ Sometimes, drivers prefer to get cash directly to avoid withdraw from ATM again.
 #### Is there relationship between higher demanding areas and tips (or cash/credit ratio)? 
 In addition to finding the best place for taxi demands, tips or cash, we want to find the relationship between taxi demands and other attributes.
 
-### Video:
+### Video: https://vimeo.com/196902125
 
-### Live Demo: 
+### Live Demo: http://54.174.39.79/
 
-### Final Document:
+### Final Document: [Final Report](https://github.com/NYU-CS6313-Fall16/NYC-Taxi-10/blob/master/files/Final_Project_Report.pdf)
 
 # Data Source
 
